@@ -1,6 +1,6 @@
 /*!
  * VERSION: 1.18.0
- * DATE: 2015-09-05
+ * DATE: 2015-09-05 // Shaxriyor 
  * UPDATES AND DOCS AT: http://greensock.com
  *
  * Includes all of the following: TweenLite, TweenMax, TimelineLite, TimelineMax, EasePack, CSSPlugin, RoundPropsPlugin, BezierPlugin, AttrPlugin, DirectionalRotationPlugin
